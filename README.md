@@ -9,7 +9,7 @@ TP Integrador com2159
     <link rel="STYLESHEET" href="TPIntegradorcss.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- Bootstrap CSS -->
+    
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
 
     <title>TP Integrador</title>
@@ -203,13 +203,8 @@ TP Integrador com2159
 
     <div class="d-grid col-7 mx-auto">
       <button class="btn btn-outline-light" type="button" style="background-color: rgba(107, 201, 30, 0.918);"><h5>Enviar</h5></button>
-      
     </div>
     <p> </p>    
-
-
-    
-    <!----- insertar barra final ---->
     <nav class="navbar navbar-dark" id="dos">
       <a class="flex-sm-fill text-center nav-link text-white" href="#">Preguntas frecuentes</a>
       <a class="flex-sm-fill text-center nav-link text-white" href="#">Contáctanos</a>
