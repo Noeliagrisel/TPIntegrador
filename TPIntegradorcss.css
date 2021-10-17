@@ -1,0 +1,46 @@
+
+.carousel-item img{ 
+    filter: brightness(70%);
+}
+
+.carousel-caption {
+    
+    margin-left: 14cm;
+    margin-right: -3cm;
+    margin-bottom: 3cm;
+}
+
+.marg {
+    margin-right: 5cm;
+    margin-left: 5cm;
+}
+
+.card-text  {
+
+}
+#tres {
+    margin-left: -0.5cm;
+    margin-right: -1cm;
+}
+
+.form {
+    margin-right: 7.4cm;
+    margin-left: 7.4cm;
+   
+}
+
+
+.nav{
+    background-color:rgb(49, 49, 49);
+ }
+ #dos{
+     height: 2cm;
+     background-color: rgb(8, 63, 82);
+     text-emphasis-color: rgb(252, 252, 252);
+     text-align-last: center;
+     filter: brightness(80%);
+     margin-right: auto;
+     margin-left: auto;
+ }
+
+     
